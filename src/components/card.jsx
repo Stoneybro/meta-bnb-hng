@@ -8,22 +8,22 @@ const  Data = [
     img:'../assets/Frame 151 (5).png',
   },
   {
-    img:'../src/assets/Frame 151 (6).png',
+    img:'../assets/Frame 151 (6).png',
   },
   {
-    img:'../src/assets/Frame 151 (7).png',
+    img:'../assets/Frame 151 (7).png',
   },
   {
-    img:'../src/assets/Frame 151.png',
+    img:'../assets/Frame 151.png',
   },
   {
-    img:'../src/assets/Frame 151 (1).png',
+    img:'../assets/Frame 151 (1).png',
   },
   {
-    img:'../src/assets/Frame 151 (2).png',
+    img:'../assets/Frame 151 (2).png',
   },
   {
-    img:'../src/assets/Frame 151 (3).png',
+    img:'../assets/Frame 151 (3).png',
   },
  
 ]
@@ -37,7 +37,7 @@ const Card = () => {
               <img src={img} alt="img" />
               <div className="card-textone"><span>Desert king</span><span className='mbt'>1MBT per night</span></div>
               <div className="card-texttwo"><span>2345km away</span><span className='available'>available for 2weeks stay</span></div>
-                  <img src="../src/assets/Frame 59528.svg" alt="" className='stars' />
+                  <img src="../assets/Frame 59528.svg" alt="" className='stars' />
           </div>
             )
           }
