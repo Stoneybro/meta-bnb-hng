@@ -5,7 +5,7 @@ const  Data = [
     img:'../assets/Frame 151 (4).png',
   },
   {
-    img:'../src/assets/Frame 151 (5).png',
+    img:'../assets/Frame 151 (5).png',
   },
   {
     img:'../src/assets/Frame 151 (6).png',
