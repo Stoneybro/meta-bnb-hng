@@ -7,10 +7,10 @@ const Wallet = ({modal}) => {
         <div className="wallet-body">
             choose your preferred wallet:
             <div>
-                <img src="../assets/image 66.svg" alt="" /><span>Metamask</span><img src="../src/assets/Group (4).svg" alt="" className='arrow' />
+                <img src="../assets/image 66.svg" alt="" /><span>Metamask</span><img src="../assets/Group (4).svg" alt="" className='arrow' />
             </div>
             <div>
-            <img src="../assets/image 69.svg" alt="" /><span>Walletconnect</span><img src="../src/assets/Group (4).svg" alt="" className='arrow' />
+            <img src="../assets/image 69.svg" alt="" /><span>Walletconnect</span><img src="../assets/Group (4).svg" alt="" className='arrow' />
             </div>
         </div>
     </div>
