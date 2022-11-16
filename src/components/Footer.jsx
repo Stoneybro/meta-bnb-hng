@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        <div className='footer-logo'> <img src="../assets/Group (2).svg" alt="" /> <div className="socials"><img src="../assets/facebook (2).svg" alt="" /><img src="../src/assets/twitter (2).svg" alt="" /><img src="../src/assets/instagram (4).svg" alt="" /></div> <div>&#169;  2022  Metabnb</div></div>
+        <div className='footer-logo'> <img src="../assets/Group (2).svg" alt="" /> <div className="socials"><img src="../assets/facebook (2).svg" alt="" /><img src="../assets/twitter (2).svg" alt="" /><img src="../assets/instagram (4).svg" alt="" /></div> <div>&#169;  2022  Metabnb</div></div>
         <div><span>Community</span>
         <ul>
             <li>NFT</li>
