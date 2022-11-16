@@ -2,7 +2,7 @@ import React from 'react'
 
 const  Data = [
   {
-    img:'/src/assets/Frame 151 (4).png',
+    img:'../assets/Frame 151 (4).png',
   },
   {
     img:'../src/assets/Frame 151 (5).png',
