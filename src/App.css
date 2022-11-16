@@ -346,7 +346,7 @@ footer li{
 }
 .locations{
   width: 100%;
-  overflow-x: scroll;
+  
 }
 .locations::-webkit-scrollbar{
   width: 2px;
@@ -375,6 +375,10 @@ footer li{
 
 
 @media (max-width:960px) {
+  .locations{
+    width: 100%;
+    overflow-x: scroll;
+  }
   .location-input{
     margin-right: 0;
   }
