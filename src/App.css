@@ -349,7 +349,7 @@ footer li{
   overflow-x: scroll;
 }
 .locations::-webkit-scrollbar{
-  display: none;
+  width: 2px;
 }
 .location-items{
   width: 55rem;
