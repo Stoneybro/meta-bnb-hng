@@ -58,7 +58,7 @@ nav img{
 .hero{
   display: flex;
   align-items: center;
-  margin: 2rem 5rem;
+  margin: 2rem 5rem 4rem;
   gap: 4rem;
 }
 .hero-text-section{
