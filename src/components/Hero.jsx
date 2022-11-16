@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div className="hero-image">
-            <img src="../src/assets/Group 4028.png" alt="4 pictures of NFTs" />
+            <img src="../assets/Group 4028.png" alt="4 pictures of NFTs" />
             </div>
         </div>
       )

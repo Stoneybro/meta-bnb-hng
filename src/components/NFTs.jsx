@@ -15,7 +15,7 @@
             </button>
         </div>
         <div className="nft-image">
-            <img src="../src/assets/Frame 59546.png" alt="" />
+            <img src="../assets/Frame 59546.png" alt="" />
         </div>
      </div>
    )

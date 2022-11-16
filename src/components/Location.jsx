@@ -15,7 +15,7 @@ const Location = () => {
         <div>Farm</div>
             </div>
               </div>
-        <div className='location-input'>Location <img src="../src/assets/setting-5.svg" alt="" /></div>
+        <div className='location-input'>Location <img src="../assets/setting-5.svg" alt="" /></div>
     </div>
   )
 }
