@@ -27,7 +27,7 @@ const Places = () => {
       img:'../assets/Frame 151 (3).png',
     },
     {
-      img:'../assets/Frame 151 (4).png',
+      img:'../assets/Frame151(4).png',
     },
     {
       img:'../assets/Frame 151 (5).png',
